@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVI_DEMO</string>
+    <string name="time_zone">TimeZone</string>
+</resources>
