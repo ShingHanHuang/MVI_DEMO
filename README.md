@@ -39,8 +39,6 @@ mvi_demo is an Android sample project that demonstrates how to implement an appl
 - **koin/**  
   Defines Koin modules (e.g., `networkModule`, `repositoryModule`, `viewModelModule`, `adapterModule`) for dependency injection configuration.
 
-- **util/**  
-  Utility classes and helpers such as `SingleLiveData`.
 
 ## Setup and Installation
 
@@ -54,5 +52,5 @@ mvi_demo is an Android sample project that demonstrates how to implement an appl
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/mvi_demo.git
+   git clone https://github.com/ShingHanHuang/MVI_DEMO.git
    cd mvi_demo
